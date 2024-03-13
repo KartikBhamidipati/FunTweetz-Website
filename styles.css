@@ -1,0 +1,16 @@
+body{
+    background-color: skyblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+.main{
+    background-color: white;
+    height: 350px;
+    width: 350px;
+    border-radius: 10px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
